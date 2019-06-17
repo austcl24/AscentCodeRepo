@@ -1,1 +1,2 @@
-# AscentCodeRepo
+# Folder Layout
+1. The *Federalist* directory contains all of the code needed to run everything in posts 1-5 of Topic Analysis using Latent Dirichlet Allocation, less any of the use of kable to pretty up the documentation. You should have the libraries noted in post 1 current on your machine. If your version of topicmodels is more recent than the one noted in the blog, you might encounter some slightly different findings.
